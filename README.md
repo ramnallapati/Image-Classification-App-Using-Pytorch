@@ -1,3 +1,5 @@
-<h1 style='color:Red' align="center">Image Classification App </h1>
+<!--Adding Title ----->
+<h1  align="center">Image Classification Application Using Pytorch </h1>
+
 
 
