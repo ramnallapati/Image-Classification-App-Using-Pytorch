@@ -124,3 +124,30 @@ Before you begin, ensure you have the following installed:
 - **Installation video of Anaconda** - [Installation](https://www.youtube.com/watch?v=mg6cMkz9Q0c)
 
 ---
+
+## Architecture
+
+```
+Gradio-app-1/
+├── app.py                  # Entry point for the Gradio 
+├── requirements.txt        # Python dependencies (PyTorch, Gradio, etc.)
+├── Core/
+│   └── predict.py          # Model loading and image classification logic
+├── model/
+│   └── cnn_model.pth       # Trained CNN model for dogs, cats, and humans
+├── assets/
+│   └── demo.png            # Application screenshots or demo images
+├── README.md               # Project documentation
+└── LICENSE                 # License information
+
+Gradio-app-1/
+|--app.py
+|--requirements.txt
+|---Core/
+|     |__predict.py
+|---Model/
+|     |__model_cnn.pth
+|---Assets/
+|     |__demo.png
+|--README.md
+|__LICENSE
