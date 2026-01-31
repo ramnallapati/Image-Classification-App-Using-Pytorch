@@ -73,4 +73,22 @@
 - It is a free application
 </td>
 </tr>
+
+<tr>
+<td width='50%'>
+
+### Developer Experience
+- Easy to Deploy
+- Support any type of image formats
+</td>
+<td width='50%'>
+
+### Scalability
+
+- Support any type of image
+- It support blur Images also
+</td>
+</tr>
 </table>
+
+---
