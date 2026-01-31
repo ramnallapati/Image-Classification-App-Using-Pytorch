@@ -47,3 +47,30 @@
 - **Problem** : Manually identifying whether an image contains a dog, cat, or human is inefficient and unreliable, especially at scale
 - **Solution** : This project uses a PyTorch-based deep learning model with a Gradio interface to automatically classify images into dogs, cats, or humans in real time.
 - **Impact** : It enables fast, accurate, and user-friendly image classification, making AI-based visual recognition accessible to everyone.
+
+### Who Is This For ?
+- Developers looking to learn and implement image classification using PyTorch
+- Teams needing a simple and deployable AI solution for basic image categorization
+- Anyone who wants to quickly identify whether an image contains a dog, cat, or human using an easy web interface
+
+---
+
+## Key Features
+
+<table>
+<tr>
+<td width="50%">
+
+### Performance
+- Lightning-fast response time
+- Optimized for high accurac
+</td>
+
+<td width='50%'>
+
+### Security
+- No Security is Provided
+- It is a free application
+</td>
+</tr>
+</table>
