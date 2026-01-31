@@ -142,3 +142,35 @@ Gradio-app-1/
 ```
 ---
 
+## Deployment
+
+1. Create/Login into a Huggingface website.
+2. Click on the Create a new space.
+3. Copy the github repo and clone in your local machine.
+4. Add all the files in your local folder to clone repository folder
+
+```bash
+# add the files into the repository
+git add .
+
+# commit all the files
+git commit -m ""
+
+# it will ask some credentials. paste Your username and access tokens
+
+# push the files into the repository
+git push
+```
+
+---
+
+<div align="center">
+
+### Star us on github!
+
+**Made with  by ❤️ by [Ram Nallapati](https://github.com/ramnallapati)**
+
+[ Back to Top](#-Image-Classification-Application-Using-PyTorch)
+
+</div>
+
