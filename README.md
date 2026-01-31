@@ -12,3 +12,26 @@
 
 ![App Demo](assets/demo.png)
 </div>
+
+---
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Key Features](#key-features)
+- [Quick Start](#quick-start)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [API Documentation](#api-documentation)
+- [Examples](#examples)
+- [Architecture](#architecture)
+- [Contributing](#contributing)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [FAQ](#faq)
+- [Changelog](#changelog)
+- [Roadmmap](#roadmap)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+- [Support](#support)
