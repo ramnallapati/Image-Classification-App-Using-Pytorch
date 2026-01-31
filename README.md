@@ -99,7 +99,7 @@
 Get Up and running in under 5 minutes
 ```bash
 # clone the repository
-git clone https://github.com/ramnallapati/Image-Classification-App-Using-Pytorch
+git clone https://github.com/ramnallapati/Image-Classification-App-Using-Pytorch.git
 
 # Naviage to project directory
 cd repo
@@ -110,3 +110,17 @@ pip install -r requirements.txt
 # run the code
 python app.py
 ```
+Visit `https:http://127.0.0.1:7860/' to see it in action!
+
+---
+
+
+## Installation
+
+Before you begin, ensure you have the following installed:
+
+- **Jupyter Notebook** -[Download](https://jupyter.org/)
+- **Anconda Package Manager** - [Download](https://www.anaconda.com/download)
+- **Installation video of Anaconda** - [Installation](https://www.youtube.com/watch?v=mg6cMkz9Q0c)
+
+---
