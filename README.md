@@ -301,9 +301,8 @@ Contributions are welcome! 🎉
 
 ## 💬 Contact & Support
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 Email: ramnallapati741@gmail.com
+- 💼 LinkedIn: [Ram Nallapati](https://www.linkedin.com/in/ram-nallapati-42a659313/)
 - 💻 GitHub: [@ramnallapati](https://github.com/ramnallapati)
 
 ---
