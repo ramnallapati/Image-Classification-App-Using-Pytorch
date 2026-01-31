@@ -92,3 +92,21 @@
 </table>
 
 ---
+
+
+## Quick Start
+
+Get Up and running in under 5 minutes
+```bash
+# clone the repository
+git clone https://github.com/ramnallapati/Image-Classification-App-Using-Pytorch
+
+# Naviage to project directory
+cd repo
+
+# install the required libraries
+pip install -r requirements.txt
+
+# run the code
+python app.py
+```
