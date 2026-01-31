@@ -127,7 +127,7 @@ Before you begin, ensure you have the following installed:
 
 ## Architecture
 
-```
+```text
 Gradio-app-1/
 ├── app.py                  # Entry point for the Gradio 
 ├── requirements.txt        # Python dependencies (PyTorch, Gradio, etc.)
@@ -139,15 +139,4 @@ Gradio-app-1/
 │   └── demo.png            # Application screenshots or demo images
 ├── README.md               # Project documentation
 └── LICENSE                 # License information
-
-Gradio-app-1/
-|--app.py
-|--requirements.txt
-|---Core/
-|     |__predict.py
-|---Model/
-|     |__model_cnn.pth
-|---Assets/
-|     |__demo.png
-|--README.md
-|__LICENSE
+```
