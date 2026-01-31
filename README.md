@@ -1,1 +1,1 @@
-<h2 style='color:orange; align-item-center'>Image Classification App Using Pytorch</h2>
+<h2 align="center" style="color: orange;">Image Classification App Using PyTorch</h2>
