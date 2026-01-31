@@ -1,1 +1,2 @@
-<h3 style='color:orange;text-align:center'>Image Classification App </h3>
+<h3 style='color:orange' align="center">Image Classification App </h3>
+
